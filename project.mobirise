@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "NewSite-07-04_2009",
+    "name": "Fisicart",
     "currentPage": "index.html",
     "theme": {
       "name": "default",
@@ -9,7 +9,9 @@
     },
     "versionFirst": "3.12.1",
     "uniqCompNum": 48,
-    "versionPublish": "3.12.1"
+    "versionPublish": "3.12.1",
+    "favicon": "@PROJECT_PATH@/assets/images/icons8-fsica-100-128x128.png",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
